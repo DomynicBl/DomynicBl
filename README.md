@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/DomynicBl/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DomynicBl&show_icons=true&theme=github_dark&includ_all_comits=true&cont_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomynicBl&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomynicBl&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
